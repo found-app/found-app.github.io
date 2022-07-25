@@ -1,0 +1,18 @@
+{
+    "files.exclude": {
+        "node_modules": true,
+        ".pnp": true,
+        "**/.pnp.js": true,
+        "coverage": true,
+        ".next/": true,
+        "build": true,
+        "**/.DS_Store": true,
+        "**/*.pem": true,
+        "**/npm-debug.log*": true,
+        "**/yarn-debug.log*": true,
+        "**/yarn-error.log*": true,
+        "**/.pnpm-debug.log*": true,
+        "**/.env*.local": true,
+        "**/.vercel": true
+    }
+}
