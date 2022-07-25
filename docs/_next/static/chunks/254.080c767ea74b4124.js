@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[254],{7254:function(b,a){a.printMsg=function(){console.log("This is a message from the demo package")}}}])
